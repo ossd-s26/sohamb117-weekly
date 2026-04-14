@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 | Mar 20 | [Borgen](https://en.wikipedia.org/w/index.php?title=Borgen_(TV_series)&oldid=1344413511) | Wikipedia edit | Fixed a misspelling
 | Mar 27 | [OpenStreetMaps Kolkata](https://www.openstreetmap.org/edit#map=17/22.565730/88.492588) | OpenStreetMaps feature | Updated streets on the road where my grandparents live
 | Mar 27 | [OpenStreetMaps Kolkata](https://www.openstreetmap.org/edit#map=18/22.559446/88.496283) | OpenStreetMaps feature | Added private entrance to Downtown Mall
+| Apr 13 | [Comment on Apple Music Scrobbling Issue](https://www.openstreetmap.org/edit#map=18/22.559446/88.496283) | Github Comment Issue Comment |  Noticed a bug when using the app, noticed there was already an issue for it. Poked around, realised I can't fix it, and tested and suggested a workaround. 
