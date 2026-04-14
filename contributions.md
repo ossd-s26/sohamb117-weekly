@@ -31,4 +31,4 @@ Replace the first row with your own contribution.
 | Mar 27 | [OpenStreetMaps Kolkata](https://www.openstreetmap.org/edit#map=18/22.559446/88.496283) | OpenStreetMaps feature | Added private entrance to Downtown Mall
 | Apr 13 | [Comment on Apple Music Scrobbling Issue](https://github.com/nerveband/Apple-Music-Play-History-Converter/issues/14) | Github Comment Issue Comment |  Noticed a bug when using the app, noticed there was already an issue for it. Poked around, realised I can't fix it, and tested and suggested a workaround. 
 | Apr 13 | [OpenStreetMaps San Jose](https://www.openstreetmap.org/changeset/181302465#map=19/37.278106/-121.741393) | OpenStreetMaps feature | Added details to a service road in San Jose
-| Apr 14 | [Libre.fm Wikipedia Page]([https://en.wikipedia.org/wiki/Libre.fm](https://en.wikipedia.org/w/index.php?title=Libre.fm&oldid=1348779637)) | Wikipedia edit | Added an update to the Libre.fm history with new details on site status.
+| Apr 14 | [Libre.fm Wikipedia Page](https://en.wikipedia.org/w/index.php?title=Libre.fm&oldid=1348779637) | Wikipedia edit | Added an update to the Libre.fm history with new details on site status.
