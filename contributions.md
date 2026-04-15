@@ -33,3 +33,4 @@ Replace the first row with your own contribution.
 | Apr 13 | [OpenStreetMaps San Jose](https://www.openstreetmap.org/changeset/181302465#map=19/37.278106/-121.741393) | OpenStreetMaps feature | Added details to a service road in San Jose
 | Apr 14 | [Libre.fm Wikipedia Page](https://en.wikipedia.org/w/index.php?title=Libre.fm&oldid=1348779637) | Wikipedia edit | Added an update to the Libre.fm history with new details on site status.
 | Apr 15 | [OpenStreetMaps San Jose](https://www.openstreetmap.org/changeset/181376407#map=19/37.277511/-121.743572) | OpenStreetMaps feature | Changed a service road to an emergency access road
+| Apr 15 | [OpenStreetMaps San Jose](https://www.openstreetmap.org/changeset/181376680#map=19/37.276982/-121.740628) | OpenStreetMaps feature | Added a secret hidden park
